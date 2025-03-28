@@ -1,0 +1,27 @@
+{
+  "name": "githubactions-test",
+  "version": "1.0.0",
+  "description": "A test repository for GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "lint": "echo \"No linting specified\" && exit 0",
+    "build": "echo \"No build specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/githubactions-test.git"
+  },
+  "keywords": [
+    "github",
+    "actions",
+    "test"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/githubactions-test/issues"
+  },
+  "homepage": "https://github.com/yourusername/githubactions-test#readme",
+  "devDependencies": {}
+}
